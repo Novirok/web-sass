@@ -9,7 +9,7 @@ Cíl: Ukázat jednoduchý příklad webové stránky, která je stylována pomoc
 
 
 # Prvky SASS/SCSS použité v kódu:
-Proměnné:
+## Proměnné:
 
 $primary-color a $secondary-color jsou proměnné pro barvy použité v designu stránky.
 
