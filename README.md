@@ -1,7 +1,10 @@
 # Základní informace o webu:
 Název: SASS Styling Example
+
 Autor: Zdeněk Vápeník
+
 Jazyk: HTML soubor obsahuje základní strukturu webové stránky s hlavičkou, navigací, sekce a zápatím.
+
 Cíl: Ukázat jednoduchý příklad webové stránky, která je stylována pomocí SASS/SCSS.
 
 
